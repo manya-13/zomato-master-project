@@ -1,2 +1,1 @@
-# zomato-proj-master-shapeai
-s
+# zomato-project
